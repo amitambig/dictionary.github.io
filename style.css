@@ -14,13 +14,7 @@ body{
     max-width: 90%;
     margin:0 auto;
 }
-nav{
-    background-color: #3a1797;
-    color: white;
-    padding: 1rem 0;
-    width: 100%;
 
-}
 section.input{
     padding-top: 100px;
 }
