@@ -1,0 +1,7 @@
+services:
+  mywebapp:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
